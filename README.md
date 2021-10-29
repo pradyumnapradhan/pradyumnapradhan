@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradyumnapradhan
-- 👀 I’m interested in Data Analyst/ Business Analyst Position
-- 🌱 I’m currently learning Python,SQL,Excel,Tableaue
-- 💞️ I’m looking to collaborate on Different Project 
+- 👀 I’m interested in Data Analyst/ Business Analyst Position.
+- 🌱 I have knowledge of Python,SQL,Excel,Tableaue and Power BI.
+- 💞️ I’m seeking oppurtunity to work as a Data Analyst.
 - 📫 How to reach me Email: pradyumnapradhan1994@gmail.com
                       PH No: 8984569541
 
