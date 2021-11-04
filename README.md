@@ -3,7 +3,7 @@
 - 🌱 I have knowledge of Python,SQL,Excel,Tableaue and Power BI.
 - 💞️ I’m seeking oppurtunity to work as a Data Analyst.
 - 📫 How to reach me Email: pradyumnapradhan1994@gmail.com
-                      PH No: 8984569541
+                      PH No: 9886920311
 
 <!---
 pradyumnapradhan/pradyumnapradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
